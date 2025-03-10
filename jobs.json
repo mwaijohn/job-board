@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "jobTitle": "Software Engineer",
+      "company": "Tech Corp",
+      "description": "Develop and maintain web applications using modern technologies.",
+      "applyUrl": "https://techcorp.com/careers/1",
+      "date": "2024-03-10T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "jobTitle": "Product Manager",
+      "company": "InnoSoft",
+      "description": "Lead product strategy and coordinate between development and marketing teams.",
+      "applyUrl": "https://innosoft.com/jobs/2",
+      "date": "2024-03-09T09:30:00Z"
+    },
+    {
+      "id": "3",
+      "jobTitle": "Data Scientist",
+      "company": "AI Solutions",
+      "description": "Analyze complex datasets and develop AI-driven solutions.",
+      "applyUrl": "https://aisolutions.com/jobs/3",
+      "date": "2024-03-08T08:15:00Z"
+    }
+  ]
+  
