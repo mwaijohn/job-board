@@ -2,26 +2,162 @@
     {
       "id": "1",
       "jobTitle": "Software Engineer",
-      "company": "Tech Corp",
-      "description": "Develop and maintain web applications using modern technologies.",
-      "applyUrl": "https://techcorp.com/careers/1",
-      "date": "2024-03-10T10:00:00Z"
+      "company": "TechCorp",
+      "description": "Develop and maintain web applications.",
+      "applyUrl": "https://techcorp.com/jobs/1",
+      "date": "2025-03-10T12:00:00Z"
     },
     {
       "id": "2",
       "jobTitle": "Product Manager",
-      "company": "InnoSoft",
-      "description": "Lead product strategy and coordinate between development and marketing teams.",
-      "applyUrl": "https://innosoft.com/jobs/2",
-      "date": "2024-03-09T09:30:00Z"
+      "company": "InnovateX",
+      "description": "Lead cross-functional teams to build great products.",
+      "applyUrl": "https://innovatex.com/jobs/2",
+      "date": "2025-03-09T10:30:00Z"
     },
     {
       "id": "3",
-      "jobTitle": "Data Scientist",
-      "company": "AI Solutions",
-      "description": "Analyze complex datasets and develop AI-driven solutions.",
-      "applyUrl": "https://aisolutions.com/jobs/3",
-      "date": "2024-03-08T08:15:00Z"
+      "jobTitle": "Data Analyst",
+      "company": "DataTech",
+      "description": "Analyze large datasets to provide business insights.",
+      "applyUrl": "https://datatech.com/jobs/3",
+      "date": "2025-03-08T14:15:00Z"
+    },
+    {
+      "id": "4",
+      "jobTitle": "UI/UX Designer",
+      "company": "CreativeLabs",
+      "description": "Design user-friendly and visually appealing interfaces.",
+      "applyUrl": "https://creativelabs.com/jobs/4",
+      "date": "2025-03-07T08:45:00Z"
+    },
+    {
+      "id": "5",
+      "jobTitle": "DevOps Engineer",
+      "company": "CloudNet",
+      "description": "Manage CI/CD pipelines and cloud infrastructure.",
+      "applyUrl": "https://cloudnet.com/jobs/5",
+      "date": "2025-03-06T11:20:00Z"
+    },
+    {
+      "id": "6",
+      "jobTitle": "Cybersecurity Analyst",
+      "company": "SecureIT",
+      "description": "Ensure the security and integrity of company systems.",
+      "applyUrl": "https://secureit.com/jobs/6",
+      "date": "2025-03-05T09:10:00Z"
+    },
+    {
+      "id": "7",
+      "jobTitle": "Mobile App Developer",
+      "company": "AppMasters",
+      "description": "Develop mobile applications for Android and iOS.",
+      "applyUrl": "https://appmasters.com/jobs/7",
+      "date": "2025-03-04T15:30:00Z"
+    },
+    {
+      "id": "8",
+      "jobTitle": "Cloud Architect",
+      "company": "CloudNet",
+      "description": "Design and optimize cloud-based solutions.",
+      "applyUrl": "https://cloudnet.com/jobs/8",
+      "date": "2025-03-03T12:50:00Z"
+    },
+    {
+      "id": "9",
+      "jobTitle": "Machine Learning Engineer",
+      "company": "AI Vision",
+      "description": "Develop and deploy machine learning models.",
+      "applyUrl": "https://aivision.com/jobs/9",
+      "date": "2025-03-02T10:05:00Z"
+    },
+    {
+      "id": "10",
+      "jobTitle": "Technical Support Engineer",
+      "company": "SupportPro",
+      "description": "Provide technical assistance to customers.",
+      "applyUrl": "https://supportpro.com/jobs/10",
+      "date": "2025-03-01T14:40:00Z"
+    },
+    {
+      "id": "11",
+      "jobTitle": "Network Administrator",
+      "company": "NetSecure",
+      "description": "Maintain and secure corporate networks.",
+      "applyUrl": "https://netsecure.com/jobs/11",
+      "date": "2025-02-28T09:30:00Z"
+    },
+    {
+      "id": "12",
+      "jobTitle": "Full Stack Developer",
+      "company": "CodeWorks",
+      "description": "Work on both frontend and backend development.",
+      "applyUrl": "https://codeworks.com/jobs/12",
+      "date": "2025-02-27T13:20:00Z"
+    },
+    {
+      "id": "13",
+      "jobTitle": "QA Engineer",
+      "company": "Testify",
+      "description": "Ensure software quality through testing.",
+      "applyUrl": "https://testify.com/jobs/13",
+      "date": "2025-02-26T11:10:00Z"
+    },
+    {
+      "id": "14",
+      "jobTitle": "IT Project Manager",
+      "company": "TechFlow",
+      "description": "Manage IT projects and teams.",
+      "applyUrl": "https://techflow.com/jobs/14",
+      "date": "2025-02-25T12:30:00Z"
+    },
+    {
+      "id": "15",
+      "jobTitle": "Database Administrator",
+      "company": "DataSolutions",
+      "description": "Manage and optimize databases.",
+      "applyUrl": "https://datasolutions.com/jobs/15",
+      "date": "2025-02-24T08:50:00Z"
+    },
+    {
+      "id": "16",
+      "jobTitle": "Blockchain Developer",
+      "company": "CryptoLabs",
+      "description": "Develop blockchain-based applications.",
+      "applyUrl": "https://cryptolabs.com/jobs/16",
+      "date": "2025-02-23T14:10:00Z"
+    },
+    {
+      "id": "17",
+      "jobTitle": "Game Developer",
+      "company": "PlayStudio",
+      "description": "Create and develop video games.",
+      "applyUrl": "https://playstudio.com/jobs/17",
+      "date": "2025-02-22T11:45:00Z"
+    },
+    {
+      "id": "18",
+      "jobTitle": "Embedded Systems Engineer",
+      "company": "ChipTech",
+      "description": "Design and program embedded systems.",
+      "applyUrl": "https://chiptech.com/jobs/18",
+      "date": "2025-02-21T09:55:00Z"
+    },
+    {
+      "id": "19",
+      "jobTitle": "Robotics Engineer",
+      "company": "RoboTech",
+      "description": "Build and program robotic systems.",
+      "applyUrl": "https://robotech.com/jobs/19",
+      "date": "2025-02-20T13:15:00Z"
+    },
+    {
+      "id": "20",
+      "jobTitle": "Technical Writer",
+      "company": "DocuPro",
+      "description": "Write technical documentation and guides.",
+      "applyUrl": "https://docupro.com/jobs/20",
+      "date": "2025-02-19T15:25:00Z"
     }
   ]
   

@@ -6,6 +6,13 @@ export interface Job {
     applyUrl: string
     date: Date
 }
+
+export interface GetJobsOptions {
+    page?: number
+    jobTitle?: string
+    company?: string
+}
+
 export type JobSummary = Omit<Job, 'applyUrl' | 'description'>
 // The object in the JSON contains the date as a string, we need
 // to convert it as a Date:
